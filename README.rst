@@ -11,7 +11,7 @@ to scam you.
 Experience Number 1
 +++++++++++++++++++
 
-`<https://www.github.com/liamcryan/upwork-adventures/brain-injury-lawyers/brain-injury-lawyers/>`_
+`<https://github.com/liamcryan/upwork-adventures/tree/master/brain-injury-lawyers>`_
 
 The ad asked to scrape details from 175 lawyers and
 save the results into an excel file.  The lawyers were
